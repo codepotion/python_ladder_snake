@@ -10,3 +10,7 @@ git remote add origin https://github.com/codepotion/repo-test.git       //add to
 git remote set-url origin https://github.com/codepotion/repo-test.git  //in case of changing origin url
 git push -u origin master                                             //push to github origin (remote repo in master branch), -u is optional
 git pull origin master                                               //pull files from github repo
+
+
+
+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
